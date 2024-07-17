@@ -27,15 +27,11 @@ Find direct access to resources tailored for **Store Operations, Retail Operatio
 
 Explore the sections **"Learn HotWax OMS," "Learn Shopify," and "Learn NetSuite,"** empowering users to maximize the potential of HotWax Commerce for your businesses.
 
-
-
-
-
-## <mark style="color:red;">Resources</mark>  :desktop:
+## Resources  :desktop:
 
 <table data-view="cards"><thead><tr><th align="center"></th><th data-hidden></th><th data-hidden></th><th data-hidden data-card-target data-type="content-ref"></th><th data-hidden data-card-cover data-type="files"></th></tr></thead><tbody><tr><td align="center"><strong>Glossary</strong></td><td></td><td></td><td><a href="https://app.gitbook.com/s/y0w9O4LtMBdjROn7iZ1X/glossary">Glossary</a></td><td><a href=".gitbook/assets/Designer (11).jpeg">Designer (11).jpeg</a></td></tr><tr><td align="center"><strong>Blogs</strong></td><td></td><td></td><td><a href="https://www.hotwax.co/blog">https://www.hotwax.co/blog</a></td><td><a href=".gitbook/assets/Designer (12).jpeg">Designer (12).jpeg</a></td></tr><tr><td align="center"><strong>Product Updates</strong></td><td></td><td></td><td><a href="https://app.gitbook.com/o/l53nGvPQLhOHrKCP9HTG/s/OE661701BALhNpdOciUJ/">Product Updates</a></td><td><a href=".gitbook/assets/PU.png">PU.png</a></td></tr><tr><td align="center"><strong>Forums</strong></td><td></td><td></td><td><a href="https://forum.hotwax.io/">https://forum.hotwax.io/</a></td><td><a href=".gitbook/assets/Forum.png">Forum.png</a></td></tr></tbody></table>
 
-## <mark style="color:red;">Store Operations User Manual</mark> :convenience\_store:
+## Store Operations User Manual :convenience\_store:
 
 <table data-view="cards"><thead><tr><th align="center"></th><th data-hidden></th><th data-hidden></th><th data-hidden data-card-target data-type="content-ref"></th><th data-hidden data-card-cover data-type="files"></th></tr></thead><tbody><tr><td align="center"><strong>BOPIS Fulfillment App</strong></td><td></td><td></td><td><a href="https://app.gitbook.com/s/y0w9O4LtMBdjROn7iZ1X/orders/bopis">BOPIS Fulfillment App</a></td><td><a href=".gitbook/assets/BOPIS.png">BOPIS.png</a></td></tr><tr><td align="center"><strong>Fulfillment App</strong></td><td></td><td></td><td><a href="https://app.gitbook.com/s/y0w9O4LtMBdjROn7iZ1X/orders/fulfillment">Fulfillment</a></td><td><a href=".gitbook/assets/store FF.png">store FF.png</a></td></tr><tr><td align="center"><strong>Returns</strong></td><td></td><td></td><td><a href="https://app.gitbook.com/s/y0w9O4LtMBdjROn7iZ1X/orders/returns">Returns</a></td><td><a href=".gitbook/assets/return.png">return.png</a></td></tr><tr><td align="center"><strong>Receiving</strong></td><td></td><td></td><td><a href="https://app.gitbook.com/s/y0w9O4LtMBdjROn7iZ1X/inventory/receiving">Receiving</a></td><td><a href=".gitbook/assets/Designer (28).jpeg">Designer (28).jpeg</a></td></tr><tr><td align="center"><strong>Cycle Count</strong></td><td></td><td></td><td><a href="https://app.gitbook.com/s/y0w9O4LtMBdjROn7iZ1X/inventory/inventory-count">Inventory Count</a></td><td><a href=".gitbook/assets/cycle count.jpeg">cycle count.jpeg</a></td></tr><tr><td align="center"><strong>Transfer Orders</strong></td><td></td><td></td><td><a href="https://app.gitbook.com/s/y0w9O4LtMBdjROn7iZ1X/inventory/transfer-order-management">Transfer Orders</a></td><td><a href=".gitbook/assets/TO.png">TO.png</a></td></tr></tbody></table>
 
